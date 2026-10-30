@@ -1,0 +1,11 @@
+{
+  "messageId": "VDU-8841",
+  "kind": "dispatch",
+  "jobRef": "JW-1048",
+  "vendor": "Deccan Heat Treat Pvt. Ltd.",
+  "challan": "DC-HT-7731",
+  "dispatchedQty": 800,
+  "dispatchNote": "HT-OUT-441",
+  "reportedAt": "2026-10-29T18:10:00+05:30",
+  "note": "Simulation. This is the vendor's total reported dispatch so far, not a carton to add. 200 pieces were not included."
+}
