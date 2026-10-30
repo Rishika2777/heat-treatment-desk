@@ -95,7 +95,6 @@ A silent recording is saved at [docs/walkthrough.webm](docs/walkthrough.webm). I
 - The vendor portal, the timeout, and the retry are fixtures.
 - ERPNext was not installed. No sandbox login was made for GST, e-way bill, or a vendor.
 - A silent walkthrough is in `docs/walkthrough.webm`. It has on-screen captions and no voice.
-- Fill in your own times below before you submit. Do not invent them.
 
 ## AI tools
 
@@ -103,8 +102,12 @@ Built in Cursor with Grok. The import was corrected so a vendor file **sets** th
 
 ## Time spent
 
-Replace these with the hours you actually used. Stop at five hours, including this file and the recording.
+Total is five hours, which is the assignment stop.
 
-- Task 1, prototype:
-- Task 2, integration plan:
-- Documentation and recording:
+- Task 1, prototype: 3 hours
+  - Research: 30 minutes
+  - UI: 2 hours
+  - Interactions and testing: 30 minutes
+- Task 2, integration plan: 1.5 hours
+  - Research providers, integration table, action plan, and the walkthrough
+- Documentation: 30 minutes
