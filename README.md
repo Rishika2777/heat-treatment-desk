@@ -81,7 +81,7 @@ Not checked on a live site: a partial subcontracting receipt in ERPNext, the bac
 
 ## Walkthrough script (about three minutes)
 
-Record this yourself. The prototype does not include a video.
+A silent recording is saved at [docs/walkthrough.webm](docs/walkthrough.webm). It has no voice. Short captions on the screen carry the walkthrough. The same path is written below if you want to record your own narration later.
 
 1. **0:00** Overview. Point at 1,000 ordered, 1,000 sent, 800 reported, 780 counted, 740 accepted, 40 rejected, and the invoice at 800. Say the customer is short by 260, with no other stock, and the ship date is 1 Nov.
 2. **0:40** Three sources. Say the vendor message, the warehouse count, and the inspection are different documents.
@@ -94,7 +94,7 @@ Record this yourself. The prototype does not include a video.
 - One job, one browser, no login, no accounts posting, no GST filing.
 - The vendor portal, the timeout, and the retry are fixtures.
 - ERPNext was not installed. No sandbox login was made for GST, e-way bill, or a vendor.
-- The three-minute recording is not in this folder. Use the script above.
+- A silent walkthrough is in `docs/walkthrough.webm`. It has on-screen captions and no voice.
 - Fill in your own times below before you submit. Do not invent them.
 
 ## AI tools
